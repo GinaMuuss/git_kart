@@ -3,6 +3,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <stdint.h>
 
 #include <assert.h>
 #include <math.h>
